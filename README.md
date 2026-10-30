@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Thiago Ferreira
+# 🤝​​ Thiago Ferreira
 
 **`Desenvolvedor FullStack`**
 
