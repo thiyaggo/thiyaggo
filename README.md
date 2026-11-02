@@ -1,8 +1,17 @@
 # 🤝​​ Thiago Ferreira
 
 **`Desenvolvedor FullStack`**
+# Olá! Sou Thiago Ferreira Soares 👋
 
-Me chamo Thiago Ferreira Soares, tenho 23 anos e sou natural do Ceará. Sou Dev, busco atuá na área de desenvolvimento como fullstack, concluí o ensino médio em uma escola proficionalizante, com o curso técnico em informática. Atualmente, sou diplomado em Análise e Desenvolvimento de Sistemas pela Unicesumar. Sou apaixonada por tecnologia e compartilho meu conhecimento através dos meus projetos aqui no GIT HUB.
+Sou desenvolvedor de software, natural do Ceará, apaixonado por tecnologia e pelo desenvolvimento de soluções que possam facilitar o dia a dia das pessoas.
+
+Concluí o Ensino Médio em uma escola profissionalizante, com formação técnica em Informática, e sou diplomado em **Análise e Desenvolvimento de Sistemas pela UniCesumar**.
+
+Tenho interesse em atuar como **Desenvolvedor Full Stack**, buscando aprimorar continuamente meus conhecimentos em desenvolvimento web, programação, bancos de dados e criação de aplicações.
+
+Utilizo este GitHub para compartilhar meus projetos, registrar minha evolução profissional e colocar em prática os conhecimentos adquiridos ao longo da minha trajetória.
+
+Estou sempre em busca de novos desafios e oportunidades para aprender, evoluir e contribuir com a área de tecnologia.
 
 <p align="left">
    <img src="https://camo.githubusercontent.com/59591f15d5ee4f70d182f2b1e9256b29ab4f6ced9b577d9ad98c2eb06243315b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732532306a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465" />
