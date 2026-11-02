@@ -30,7 +30,7 @@ Estou sempre em busca de novos desafios e oportunidades para aprender, evoluir e
 
 ### Back-end
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
 </p>
 
 ### Banco de Dados
